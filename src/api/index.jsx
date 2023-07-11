@@ -3,7 +3,7 @@ import { DateTime } from "luxon";
 
 
 
-const API_URL = "http://localhost:3005";
+const API_URL = "https://api.opsmgnt.com/";
 // const token = localStorage.getItem('token');
 const API_KEY = "53d489c7a70cbab23593b115345f9e5e";
 const BASE_URL = "https://api.openweathermap.org/data/2.5";
